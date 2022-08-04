@@ -8,9 +8,9 @@ body{
     background-image: url(images/background.jpg);
     
     background-repeat: no-repeat;
-    background-size: 200%;
+    background-size: cover;
     background-position: center center;
-    height: 100%;
+    height: 100vh;
     font-family: "Allura";
     display: flex;
     flex-direction: column;
